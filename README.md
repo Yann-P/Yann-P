@@ -1,4 +1,4 @@
-Hello there, thanks for stopping by 👋 
+# 🏕️ Hi!
 
 I am a fullstack developer diving into open source after 7 years of working at startups. 
 
