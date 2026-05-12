@@ -1,8 +1,8 @@
-# 🏕️ Hi!
+## 🏕️ Hi!
 
 I am a fullstack developer diving into open source after 7 years of working at startups. 
 
-**Currently open to remote, freelance work.** Available capacity: 16h/week, west eu timezone. Fluent english and french.
+**Currently open to freelance work** · available capacity 16h/week · west eu timezone · fluent english and french.
 
 --- 
 
