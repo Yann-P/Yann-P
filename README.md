@@ -12,4 +12,6 @@ Working on:
 
 Interests: cybersecurity, self-hosting, all things docker and linux, cloud engineering, game development as a hobby
 
-Contact: `mail at yann dash p d̷ot fr`.
+Contact: `mail at yann dash p d̷ot fr`. 
+
+GPG `bd684fccdaf5c9e7b5d6353f1f44cef1e5e52f7f` [Public key](https://raw.githubusercontent.com/Yann-P/Yann-P/refs/heads/main/publickey.mail%40yann-p.fr-bd684fccdaf5c9e7b5d6353f1f44cef1e5e52f7f.asc)
